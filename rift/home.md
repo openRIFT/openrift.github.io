@@ -8,7 +8,7 @@ Don't like how something is written or there is a missing feature? RIFT is easil
 
 ## Installation
 
-Go to the releases page on github for the stable release, or go to the downloads page on the [RIFT](https://0hstormy.github.io/rift.html) wbesite for the newest unstable version.
+Go to the releases page on github for the stable release, or go to the downloads page on the [RIFT](https://openrift.github.io) wbesite for the newest unstable version.
 
 ### Dependencies
 
@@ -16,7 +16,7 @@ Before you install RIFT, you will need a couple things installed:
 
 * Python 3+ (No Python 2 support)
 * Colorama (Installed automatically with `run.sh`)
-* Windows or Linux (No offical MacOS support currently)
+* Windows, MacOS, or Linux
 
 Once you have all of those, you can start using RIFT!
 

@@ -17,7 +17,7 @@ Before you start, you will need a couple things installed:
 
 * Python 3+ (No Python 2 support)
 * Colorama (Installed automatically with `run.sh`)
-* Windows or Linux (No offical MacOS support currently)
+* Windows, MacOS, or Linux
 
 Once you have all of those, you can start using RIFT!
 
