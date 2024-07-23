@@ -4,6 +4,12 @@ RIFT is a new way of downloading files of the internet, it uses repositories tha
 
 Don't like how something is written or there is a missing feature? RIFT is easily modifiable as you can easily add commands. You can also choose to submit a pull request on the Github if the feature useful enough.
 
+<video controls>
+  <source src="rift/showcase.webm" type="video/webm" />
+</video>
+
+*RIFT runs faster than shown in recording*
+
 <hr>
 
 ## Installation
