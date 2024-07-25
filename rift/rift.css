@@ -61,6 +61,10 @@
     width: 96px;
   }
 
+  video{
+    width: 100%;
+  }
+
   .banner {
   height: 150pt;
   background-image: linear-gradient(to bottom right, var(--accent), var(--accent2));
