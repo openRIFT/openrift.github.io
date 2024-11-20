@@ -2,6 +2,8 @@
 
 Welcome to the RIFT documentation, here you will find how to use the program, and how to create your very own repository! Ready?
 
+**I will remake the documentation for the rewrite soon.**
+
 ## Table of Contents
 
 * Home: Starting place and Table of Contents
@@ -28,7 +30,7 @@ Once you have all of those, you can start using RIFT! To install RIFT, download 
 
 # Introduction
 
-To start, you're probably here because you don't know how to do anything. Don't worry, this guide will teach you all the basics of how to use RIFT. From how to download your first file to navagating RIFT.
+To start, you're probably here because you don't know how to do anything. Don't worry, this guide will teach you all the basics of how to use RIFT. From how to download your first file to navigating RIFT.
 
 You'll see something like this
 
@@ -46,9 +48,9 @@ Now that you're in the main part of the program, here are the follow commands th
 * i: Choose a file to download
 * dl: Downloads the chosen file
 * exit: Exits the program
-* rf: Refreshs the screen
+* rf: Refreshes the screen
 * conf: Edit config file, Vim is the default editor (Built-in interface planned)
-* edit: Enters the repostiory editor
+* edit: Enters the repository editor
 * play: Plays a specified file or the last file you downloaded (VLC used by default)
 * about: Shows README.md file
 * help: Shows this documentation
@@ -71,14 +73,14 @@ Using the built-in editor is very simple, open up rift, you can either clear out
 
 ![RIFT UI](rift/docs/editorui.png)
 
-### Editor specifc commands
+### Editor specific commands
 
 * append: creates a new repository entry
 * del: removes an entry at a specific index
 
 ## Manually editing
 
-You may choose the manually edit the `repo.rift` file, this way isn't reccomend but is possible. First, you want find where RIFT is installed, then go into the `rift/` folder, there you will find `repo.rift`. You want to open the file and clear it out. After that you can add entries like this: `[LABEL];[URL]`. All download URL's must be direct file downloads.
+You may choose the manually edit the `repo.rift` file, this way isn't recommend but is possible. First, you want find where RIFT is installed, then go into the `rift/` folder, there you will find `repo.rift`. You want to open the file and clear it out. After that you can add entries like this: `[LABEL];[URL]`. All download URL's must be direct file downloads.
 
 <hr>
 
@@ -118,4 +120,4 @@ Now how the heck do I upload these so anyone can download them? Just follow the 
 
 You made it! Good job, now just wait a few minutes for the `plugins.rift` file to update and install it with `rpk`.
 
-*RIFT documentation created by 0Stormy, edited 8/2/24*
+*RIFT documentation created by 0Stormy, edited 11/20/24*
