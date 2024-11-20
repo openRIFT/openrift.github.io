@@ -8,7 +8,7 @@ Don't like how something is written or there is a missing feature? RIFT is easil
   <source src="rift/showcase.webm" type="video/webm" />
 </video>
 
-*RIFT runs faster than shown in recording*
+*My shitty recording software is causing RIFT to flicker.*
 
 <hr>
 
